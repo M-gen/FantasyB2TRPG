@@ -18,9 +18,9 @@
 ## 基本ルールセット
 
 - ルール
-    - [「01_基本ルール」](TRPG_Project/Public_Rules/Core_Rulebook/01_Rules/01_基本ルール.md)
-    - [「02_キャラクター作成」](TRPG_Project/Public_Rules/Core_Rulebook/01_Rules/02_キャラクター作成.md)
+    - [「01_基本ルール」](Public_Rules/Core_Rulebook/01_Rules/01_基本ルール.md)
+    - [「02_キャラクター作成」](Public_Rules/Core_Rulebook/01_Rules/02_キャラクター作成.md)
 - データ
-    - [「01_基本ワンダー」](TRPG_Project/Public_Rules/Core_Rulebook/02_Data/01_基本ワンダー.md)
-    - [「02_アイテム」](TRPG_Project/Public_Rules/Core_Rulebook/02_Data/02_アイテム.md)
-    - [「03_欠点」](TRPG_Project/Public_Rules/Core_Rulebook/02_Data/03_欠点.md)
+    - [「01_基本ワンダー」](Public_Rules/Core_Rulebook/02_Data/01_基本ワンダー.md)
+    - [「02_アイテム」](Public_Rules/Core_Rulebook/02_Data/02_アイテム.md)
+    - [「03_欠点」](Public_Rules/Core_Rulebook/02_Data/03_欠点.md)
