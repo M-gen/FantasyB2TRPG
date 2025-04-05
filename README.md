@@ -33,6 +33,10 @@
 - ルール
     - [「01_基本ルール」](Public_Rules/Core_Rulebook/01_Rules/01_基本ルール.md)
     - [「02_キャラクター作成」](Public_Rules/Core_Rulebook/01_Rules/02_キャラクター作成.md)
+    - [「03_アイテム」](Public_Rules/Core_Rulebook/01_Rules/03_アイテム.md)
+    - [「04_ワンダー」](Public_Rules/Core_Rulebook/01_Rules/04_ワンダー.md)
+    - [「05_戦闘」](Public_Rules/Core_Rulebook/01_Rules/05_戦闘.md)
+    - [「06_コネクション」](Public_Rules/Core_Rulebook/01_Rules/06_コネクション.md)
 - データ
     - [「01_ワンダー_基本」](Public_Rules/Core_Rulebook/02_Data/01_ワンダー_基本.md)
     - [「03_ワンダー_神々」](Public_Rules/Core_Rulebook/02_Data/03_ワンダー_神々.md)
