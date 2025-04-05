@@ -39,6 +39,7 @@
     - [「06_コネクション」](Public_Rules/Core_Rulebook/01_Rules/06_コネクション.md)
 - データ
     - [「01_ワンダー_基本」](Public_Rules/Core_Rulebook/02_Data/01_ワンダー_基本.md)
+    - [「02_ワンダー_種族」](Public_Rules/Core_Rulebook/02_Data/02_ワンダー_種族.md)
     - [「03_ワンダー_神々」](Public_Rules/Core_Rulebook/02_Data/03_ワンダー_神々.md)
     - [「10_アイテム」](Public_Rules/Core_Rulebook/02_Data/10_アイテム.md)
     - [「20_欠点」](Public_Rules/Core_Rulebook/02_Data/20_欠点.md)
