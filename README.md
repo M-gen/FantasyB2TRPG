@@ -45,3 +45,4 @@
     - [「20_欠点」](Public_Rules/Core_Rulebook/02_Data/20_欠点.md)
 - ワールド
     - [「01_ワールド概要」](Public_Rules/Core_Rulebook/03_World/01_ワールド概要.md)
+    - [「10_神々_信仰」](Public_Rules/Core_Rulebook/03_World/10_神々_信仰.md)
